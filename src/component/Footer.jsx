@@ -1,8 +1,8 @@
-import fbIcon from '../../icon/icon-facebook.svg'
-import igIcon from '../../icon/icon-instagram.svg'
-import twtIcon from '../../icon/icon-twitter.svg'
-import ptIcon from '../../icon/icon-pinterest.svg'
-import logo from '../../icon/logo.svg'
+import fbIcon from '../../public/icon/icon-facebook.svg'
+import igIcon from '../../public/icon/icon-instagram.svg'
+import twtIcon from '../../public/icon/icon-twitter.svg'
+import ptIcon from '../../public/icon/icon-pinterest.svg'
+import logo from '../../public/icon/logo.svg'
 
 const Footer = () => {
   return (

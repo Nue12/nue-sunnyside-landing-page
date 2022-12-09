@@ -1,13 +1,13 @@
 import React, { useState } from 'react'
-import logo from '../../icon/logo.svg'
-import menuIcon from '../../icon/icon-hamburger.svg'
-import arrow from '../../icon/icon-arrow-down.svg'
+import logo from '../../public/icon/logo.svg'
+import menuIcon from '../../public/icon/icon-hamburger.svg'
+import arrow from '../../public/icon/icon-arrow-down.svg'
 
 const NavDiv = () => {
   const [menu, setMenu] = useState(false);
   console.log(menu)
   return (
-    <nav className=' bg-navBg-mobile p-5 bg-cover  bg-no-repeat ph:bg-navBg-desktop h-3/4 bg-center'>
+    <nav className=' bg_runner p-5 bg-cover  bg-no-repeat h-3/4 bg-center'>
         <div className=' mb-14 flex justify-between items-center'>
             <img src={logo} alt='logo' />
             <img src={menuIcon} alt='menu' onClick={() => setMenu(prevMenu => !prevMenu)} className=' cursor-pointer md:hidden' />

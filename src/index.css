@@ -24,3 +24,13 @@
   border-left: 30px solid transparent;
   border-right: 30px solid white;
 }
+
+.bg_runner {
+  background-image: url(../public/images/mobile/image-header.jpg);
+}
+
+@media screen and (min-width: 400px) {
+  .bg_runner {
+    background-image: url(../public/images/desktop/image-header.jpg);
+  }
+}
