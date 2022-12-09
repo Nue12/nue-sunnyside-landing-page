@@ -1,15 +1,7 @@
-import transformMb from '../../public/images/mobile/image-transform.jpg'
 import transformDt from '../../public/images/desktop/image-transform.jpg'
-
-import standOutMb from '../../public/images/mobile/image-stand-out.jpg'
 import standOutDt from '../../public/images/desktop/image-stand-out.jpg'
-
 import graphicMb from '../../public/images/mobile/image-graphic-design.jpg'
-import graphicDt from '../../public/images/desktop/image-graphic-design.jpg'
-
 import photographyMb from '../../public/images/mobile/image-photography.jpg'
-import photographyDt from '../../public/images/desktop/image-photography.jpg'
-import { useEffect, useState } from 'react'
 
 const Article = () => {
 
