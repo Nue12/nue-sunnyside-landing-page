@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Emily R.",
+        "img": "./icon/image-emily.jpg",
+        "review": "We put our trust in Sunnyside and they delivered, making sure our needs weer met and deadlines were always hit.",
+        "career": "Marketing Director"
+    },
+    {
+        "name": "Thomas S.",
+        "img": "./icon/image-thomas.jpg",
+        "review": "Sunny's enthusiasm coupled with their keen interest in our brand's success made it a satisfying and enjoyable experience.",
+        "career": "Chief Operating Officer"
+    },
+    {
+        "name": "Jennie F.",
+        "img": "./icon/image-jennie.jpg",
+        "review": "incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!",
+        "career": "Business Owner"
+    }
+]

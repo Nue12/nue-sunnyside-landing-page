@@ -1,0 +1,16 @@
+{  
+    "mobile": {
+        "id" : "1",
+        "milkM": "./public/images/mobile/image-gallery-milkbottles.jpg",
+        "orangeM": "./public/images/mobile/image-gallery-orange.jpg",
+        "coneM": "./public/images/mobile/image-gallery-cone.jpg",
+        "sugarM": "./public/images/mobile/image-gallery-sugar-cubes.jpg"
+    },
+    "desktop": {
+        "id" : "2",
+        "milkD": "./public/images/desktop/image-gallery-milkbottles.jpg",
+        "orangeD": "./public/images/desktop/image-gallery-orange.jpg",
+        "coneD": "./public/images/desktop/image-gallery-cone.jpg",
+        "sugarD": "./public/images/desktop/image-gallery-sugarcubes.jpg"
+    }
+}
